@@ -39,6 +39,7 @@ end
 def retrieve_first_element_from_array(array)
   list = array
   
+  list[1]
 end
 
 def retrieve_last_element_from_array(array)
